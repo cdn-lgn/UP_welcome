@@ -44,7 +44,7 @@ const Hero = () => {
 				  }}
 				 	className="fixed bg-orange-500 top-0 left-0 h-24 w-24 rounded-full pointer-events-none"
 				 	></motion.div>
-				<img src="../../assets/st2.jpg" className="sepia absolute -z-10 h-full w-full object-cover" alt=""/>
+				<img src="../../public/st2.jpg" className="sepia absolute -z-10 h-full w-full object-cover" alt=""/>
 					<div className="relative overflow-hidden">
 							<h1 className="anim1 z-1 relative text-8xl font-sans" >Welcome To</h1>
 							<h1 className="anim2 z-1 relative text-8xl font-rubik" >Uttar Pradesh</h1>
