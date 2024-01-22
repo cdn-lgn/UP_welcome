@@ -6,7 +6,7 @@ const mid3 = () => {
       <div className="w-full h-full p-2 flex flex-col justify-center relative">
         <div className="relative h-2/3 textAnim border-2 border-black p-4 bg-white hover:bg-black duration-500 hover:text-white">
           <p className="text-2xl font-bold">You are</p>
-	      <div className="relative -top-10 text-[150px]">
+	      <div className="relative md:-top-10 md:text-[150px] top-20 text-4xl ">
 	        <h1 className="H13 tracking-[30px] absolute">INVITED</h1>
 	        <h1 className="H12 tracking-[30px] absolute">INVITED</h1>
 	        <h1 className="H11 tracking-[30px] absolute">INVITED</h1>
