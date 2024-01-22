@@ -46,8 +46,8 @@ const Hero = () => {
 				 	></motion.div>
 				<img src="/st2.jpg" className="sepia absolute -z-10 h-full w-full object-cover" alt=""/>
 					<div className="relative overflow-hidden">
-							<h1 className="anim1 z-1 relative text-8xl font-sans" >Welcome To</h1>
-							<h1 className="anim2 z-1 relative text-8xl font-rubik" >Uttar Pradesh</h1>
+							<h1 className="anim1 z-1 relative md:text-8xl text-6xl font-sans" >Welcome To</h1>
+							<h1 className="anim2 z-1 relative md:text-8xl text-6xl font-rubik" >Uttar Pradesh</h1>
 					</div>
 			</div>
 	)
